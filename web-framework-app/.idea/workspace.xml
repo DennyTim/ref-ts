@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="141c5c82-64be-4fa8-9017-838c8a9ef3e1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ULt1jT7687464kApbYt07jj1Il" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.16.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.TypeScript" />
+    <property name="ts.external.directory.path" value="D:\Repozitories\Referance Typescript\web-framework-app\node_modules\typescript\lib" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="13" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="141c5c82-64be-4fa8-9017-838c8a9ef3e1" name="Default Changelist" comment="" />
+      <created>1575147489995</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575147489995</updated>
+      <workItem from="1575147493854" duration="4781000" />
+      <workItem from="1575197835281" duration="20396000" />
+      <workItem from="1575246519412" duration="3950000" />
+      <workItem from="1575275341403" duration="684000" />
+      <workItem from="1575289454959" duration="511000" />
+      <workItem from="1575295691777" duration="1737000" />
+      <workItem from="1575319453548" duration="10504000" />
+      <workItem from="1575381053291" duration="795000" />
+      <workItem from="1575408072787" duration="7353000" />
+      <workItem from="1575494816527" duration="12000" />
+      <workItem from="1575494891507" duration="10681000" />
+      <workItem from="1575535076392" duration="11000" />
+      <workItem from="1575574770574" duration="18228000" />
+      <workItem from="1575664525780" duration="4785000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

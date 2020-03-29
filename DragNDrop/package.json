@@ -1,0 +1,22 @@
+{
+  "name": "ddproject",
+  "version": "1.0.0",
+  "description": "Understanding TypeScript Course Setup",
+  "main": "src/app.js",
+  "scripts": {
+    "tsc": "tsc",
+    "tsc:w": "tsc -w",
+    "lite": "lite-server",
+    "start": "concurrently \"npm run tsc:w\" \"npm run lite\" "
+  },
+  "keywords": [
+    "typescript",
+    "course"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^5.0.1",
+    "lite-server": "^2.5.4"
+  }
+}
