@@ -16,7 +16,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1UoRfgkUredRHkFa9IsD7NWWmFk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -27,7 +31,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../MEAN/shvarzmuller - angular/course project" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
@@ -60,6 +64,7 @@
       <workItem from="1576226441243" duration="40000" />
       <workItem from="1585507407735" duration="340000" />
       <workItem from="1585512479636" duration="6476000" />
+      <workItem from="1585586395592" duration="51000" />
     </task>
     <servers />
   </component>
@@ -80,6 +85,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1585514175050" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1585586439708">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1585586439708" />
     <state x="349" y="147" key="IDE.errors.dialog" timestamp="1585507742033">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

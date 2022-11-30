@@ -31,12 +31,12 @@ export class ProjectState extends State<Project> {
 
     addProject(title: string, description: string, people: number) {
         const newProject = new Project(
-                Math.random()
-                        .toString(),
-                title,
-                description,
-                people,
-                ProjectStatus.Active
+            Math.random()
+                .toString(),
+            title,
+            description,
+            people,
+            ProjectStatus.Active
         );
         this.projects.push(newProject);
         this.updateListeners();

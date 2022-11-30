@@ -12,7 +12,7 @@ export class ProjectList extends Component<HTMLDivElement, HTMLElement> implemen
     assignedProjects: Project[];
 
     constructor(private type: 'active' | 'finished') {
-        super('project-list', 'app', false, `${ type }-projects`);
+        super('project-list', 'app', false, `${type}-projects`);
         this.assignedProjects = [];
 
         this.configure();
@@ -32,8 +32,8 @@ export class ProjectList extends Component<HTMLDivElement, HTMLElement> implemen
     dragHandler(event: DragEvent): void {
         const prjId = event.dataTransfer!.getData('text/plain');
         projectState.moveProject(
-                prjId,
-                this.type === 'active' ? ProjectStatus.Active:ProjectStatus.Finished
+            prjId,
+            this.type === 'active' ? ProjectStatus.Active : ProjectStatus.Finished
         );
     }
 
@@ -60,14 +60,14 @@ export class ProjectList extends Component<HTMLDivElement, HTMLElement> implemen
     }
 
     renderContent() {
-        this.element.querySelector('ul')!.id = `${ this.type }-projects-list`;
+        this.element.querySelector('ul')!.id = `${this.type}-projects-list`;
         this.element.querySelector('h2')!.textContent =
-                this.type.toUpperCase() + ' PROJECTS';
+            this.type.toUpperCase() + ' PROJECTS';
     }
 
     private renderProjects() {
         const listEl = document.getElementById(
-                `${ this.type }-projects-list`
+            `${this.type}-projects-list`
         )! as HTMLUListElement;
         listEl.innerHTML = '';
         for (const prjItem of this.assignedProjects) {

@@ -17,13 +17,13 @@ export class ProjectInput extends Component<HTMLDivElement, HTMLElement> {
     constructor() {
         super('project-input', 'app', true, 'user-input');
         this.titleInputElement = <HTMLInputElement>(
-                this.element.querySelector('#title')
+            this.element.querySelector('#title')
         );
         this.descriptionInputElement = <HTMLInputElement>(
-                this.element.querySelector('#description')
+            this.element.querySelector('#description')
         );
         this.peopleInputElement = <HTMLInputElement>(
-                this.element.querySelector('#people')
+            this.element.querySelector('#people')
         );
         this.configure();
     }
@@ -57,10 +57,10 @@ export class ProjectInput extends Component<HTMLDivElement, HTMLElement> {
         };
 
         return !validate(titleValidatable) ||
-        !validate(descriptionValidatable) ||
-        !validate(peopleValidatable)
-                ? alert('Invalid input, please try again later')
-                :[enteredTitle, enteredDescription, +enteredPeople];
+            !validate(descriptionValidatable) ||
+            !validate(peopleValidatable)
+            ? alert('Invalid input, please try again later')
+            : [enteredTitle, enteredDescription, +enteredPeople];
     }
 
     private clearInputs() {

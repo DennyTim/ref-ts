@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "ES2019",
+    "module": "ES2015",
+    "noImplicitAny": true,
+    "noImplicitThis": true,
+    "moduleResolution": "Node",
+    "lib": ["ES7", "dom"],
+    "declaration": true,
+    "declarationDir": "./dist/typings/",
+    "outDir": "./build",
+    "rootDir": "./src",
+    "allowSyntheticDefaultImports": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true
+  },
+  "include": ["./src/**/*.ts"]
+}
